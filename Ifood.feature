@@ -3,7 +3,7 @@
 Ifood
 
 Funcionalidade: PraRetirar
-ma nova modalidade que permite 
+Uma nova modalidade que permite 
 que seus clientes retirem pedidos feitos pelo app 
 diretamente com o restaurante responsável pela encomenda. 
 
@@ -18,5 +18,5 @@ Como usuario
     Cenário: Trocar para retirar na loja
         Dado selecionei um item para entregar
         Quando acionar ver sacola
-        E trocar para entrgar para retirar
+        E trocar de entregar para retirar
         Entao visualizo retirar na loja
